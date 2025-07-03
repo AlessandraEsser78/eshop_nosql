@@ -24,8 +24,8 @@ Este projeto tem como objetivo desenvolver uma aplicação CRUD para gerenciar d
 
 ## EXECUÇÃO
 # Clonagem do repositório no GitHub
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd eshop-nosql
+git clone https://github.com/AlessandraEsser78/eshop_nosql.git
+cd e-shop
 
 # Gerar dados falsos
 python gerar_dados.py
